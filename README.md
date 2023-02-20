@@ -1,3 +1,5 @@
+https://github.com/Siddhrajs/TestRunner
+
 TestRunner is an application involving parsing and checking of the sample test cases of any programming contest. Project comprises of back-end Python programming and uses Sublime Text Editor as front-end UI. It allows you to run and debug your code in C++ and Java.
 
 Salient Features
@@ -21,5 +23,3 @@ Bugs are everywhere and hence, one needs to debug. This build option takes input
 
 Random Test
 Generates the random test by running filegen/RandomTest.cpp file which can be seen in Input.txt and then, runs the code in Debug Mode. Note that, after you make any changes to your code, you should first run it on Debug mode and then run on RandomTest mode.
-
-You can check out DEMO of this tool here.
