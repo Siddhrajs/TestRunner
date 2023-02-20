@@ -19,5 +19,5 @@ fpc=open(pathn)
 
 fpo.write(fpc.read())
 
-fpo.close()
+fpo.close() 
 fpc.close()
